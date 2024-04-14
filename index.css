@@ -1,0 +1,14 @@
+#myButton{
+    background-color: aqua;
+    font-size: 150%;
+    border-radius: 20px;
+}
+
+#myButton:hover {
+    background-color: red;
+    initial-value: Do it!;    
+}
+
+#myButton{
+    visibility: hidden;
+}
